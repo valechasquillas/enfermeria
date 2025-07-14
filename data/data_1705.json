@@ -1,0 +1,25 @@
+{
+  "s1": [
+    ["Fundamentos de Enfermería I","ENF-101",8,10,"E1",[],""],
+    ["Biología Celular","BIO-110",6,8,"E1",[],""],
+    ["Química General","QUI-120",6,8,"E1",[],""],
+    ["Anatomía Humana I","ANA-130",8,10,"E1",[],""]
+  ],
+  "s2": [
+    ["Fundamentos de Enfermería II","ENF-102",8,10,"E1",["ENF-101"],""],
+    ["Fisiología Humana","FIS-210",8,10,"E1",["ANA-130"],""],
+    ["Microbiología","MIC-220",6,8,"E1",["BIO-110"],""]
+  ],
+  "s3": [
+    ["Farmacología I","FAR-310",6,8,"E2",["FIS-210"],""],
+    ["Psicología del Desarrollo","PSI-320",6,8,"E2",[],""],
+    ["Nutrición y Metabolismo","NUT-330",6,8,"E2",[],""]
+  ],
+  "s4": [],
+  "s5": [],
+  "s6": [],
+  "s7": [],
+  "s8": [],
+  "s9": [],
+  "s10": []
+}
