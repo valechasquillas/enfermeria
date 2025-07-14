@@ -1,0 +1,24 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+}
+#malla {
+  display: grid;
+  grid-template-columns: repeat(10, 1fr);
+  gap: 8px;
+}
+.celda {
+  padding: 8px;
+  border-radius: 4px;
+  cursor: pointer;
+  position: relative;
+}
+.celda.tachado {
+  text-decoration: line-through;
+  background: #E0E0E0 !important;
+  color: #888 !important;
+}
+.semestre-label {
+  text-align: center;
+  font-weight: bold;
+}
